@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # simple_login
 
 
-<img  src="https://github.com/tainanSantos/simple_login/images/view.png" width=200>
+<img  src="https://github.com/tainanSantos/simple_login/images/view.png" width=200/>
